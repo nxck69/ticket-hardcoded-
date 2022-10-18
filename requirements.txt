@@ -1,0 +1,5 @@
+hikari
+python-dotenv
+hikari-lightbulb
+hikari-miru
+humanize
